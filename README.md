@@ -1,2 +1,2 @@
 # Cs112-assignment
-CS112 Assignment
+Graphical Calculator made with python
